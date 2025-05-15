@@ -21,6 +21,8 @@ ibm-cloud-sdk-core==3.17.0
 # Optional: Data handling
 pandas==2.2.2
 numpy==1.26.4
+aiofiles==23.2.1
+async-timeout==4.0.3
 
 # Optional: File handling
 python-docx==1.1.0
