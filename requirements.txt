@@ -4,6 +4,7 @@ httpx==0.27.0
 pydantic==2.7.1
 python-multipart==0.0.9
 jinja2==3.1.3
+ibm-cos-sdk==2.13.4
 
 # OCR
 Pillow==10.3.0
